@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Array\Problem18\bin\Debug\netcoreapp3.1\Problem18.exe
+C:\Users\HP\source\repos\Array\Problem18\bin\Debug\netcoreapp3.1\Problem18.deps.json
+C:\Users\HP\source\repos\Array\Problem18\bin\Debug\netcoreapp3.1\Problem18.runtimeconfig.json
+C:\Users\HP\source\repos\Array\Problem18\bin\Debug\netcoreapp3.1\Problem18.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Array\Problem18\bin\Debug\netcoreapp3.1\Problem18.dll
+C:\Users\HP\source\repos\Array\Problem18\bin\Debug\netcoreapp3.1\Problem18.pdb
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.AssemblyInfo.cs
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.dll
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.pdb
+C:\Users\HP\source\repos\Array\Problem18\obj\Debug\netcoreapp3.1\Problem18.genruntimeconfig.cache

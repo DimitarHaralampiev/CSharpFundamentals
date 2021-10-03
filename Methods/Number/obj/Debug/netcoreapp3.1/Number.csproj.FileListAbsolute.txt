@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Methods\Number\bin\Debug\netcoreapp3.1\Number.exe
+C:\Users\HP\source\repos\Methods\Number\bin\Debug\netcoreapp3.1\Number.deps.json
+C:\Users\HP\source\repos\Methods\Number\bin\Debug\netcoreapp3.1\Number.runtimeconfig.json
+C:\Users\HP\source\repos\Methods\Number\bin\Debug\netcoreapp3.1\Number.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Methods\Number\bin\Debug\netcoreapp3.1\Number.dll
+C:\Users\HP\source\repos\Methods\Number\bin\Debug\netcoreapp3.1\Number.pdb
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.AssemblyInfo.cs
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.dll
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.pdb
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.genruntimeconfig.cache
+C:\Users\HP\source\repos\Methods\Number\obj\Debug\netcoreapp3.1\Number.csprojAssemblyReference.cache

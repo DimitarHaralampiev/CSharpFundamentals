@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Methods\PrintMax\bin\Debug\netcoreapp3.1\PrintMax.exe
+C:\Users\HP\source\repos\Methods\PrintMax\bin\Debug\netcoreapp3.1\PrintMax.deps.json
+C:\Users\HP\source\repos\Methods\PrintMax\bin\Debug\netcoreapp3.1\PrintMax.runtimeconfig.json
+C:\Users\HP\source\repos\Methods\PrintMax\bin\Debug\netcoreapp3.1\PrintMax.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Methods\PrintMax\bin\Debug\netcoreapp3.1\PrintMax.dll
+C:\Users\HP\source\repos\Methods\PrintMax\bin\Debug\netcoreapp3.1\PrintMax.pdb
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.AssemblyInfo.cs
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.dll
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.pdb
+C:\Users\HP\source\repos\Methods\PrintMax\obj\Debug\netcoreapp3.1\PrintMax.genruntimeconfig.cache

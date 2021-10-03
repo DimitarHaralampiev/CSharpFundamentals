@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Methods\ReturnNumber\bin\Debug\netcoreapp3.1\ReturnNumber.exe
+C:\Users\HP\source\repos\Methods\ReturnNumber\bin\Debug\netcoreapp3.1\ReturnNumber.deps.json
+C:\Users\HP\source\repos\Methods\ReturnNumber\bin\Debug\netcoreapp3.1\ReturnNumber.runtimeconfig.json
+C:\Users\HP\source\repos\Methods\ReturnNumber\bin\Debug\netcoreapp3.1\ReturnNumber.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Methods\ReturnNumber\bin\Debug\netcoreapp3.1\ReturnNumber.dll
+C:\Users\HP\source\repos\Methods\ReturnNumber\bin\Debug\netcoreapp3.1\ReturnNumber.pdb
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.AssemblyInfo.cs
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.dll
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.pdb
+C:\Users\HP\source\repos\Methods\ReturnNumber\obj\Debug\netcoreapp3.1\ReturnNumber.genruntimeconfig.cache

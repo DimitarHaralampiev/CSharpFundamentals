@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\bin\Debug\netcoreapp3.1\Problme02.exe
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\bin\Debug\netcoreapp3.1\Problme02.deps.json
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\bin\Debug\netcoreapp3.1\Problme02.runtimeconfig.json
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\bin\Debug\netcoreapp3.1\Problme02.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\bin\Debug\netcoreapp3.1\Problme02.dll
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\bin\Debug\netcoreapp3.1\Problme02.pdb
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.AssemblyInfo.cs
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.dll
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.pdb
+C:\Users\HP\source\repos\FundamentalExercise\Problme02\obj\Debug\netcoreapp3.1\Problme02.genruntimeconfig.cache
